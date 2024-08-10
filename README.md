@@ -34,7 +34,7 @@ Download and execute the script to:
 - Self-update the script
 
 ```sh
-wget https://raw.githubusercontent.com/AnonVM/Nginx-Installer/master/setup.sh](https://raw.githubusercontent.com/AnonVM/Nginx-Installer/main/setup.sh
+wget https://raw.githubusercontent.com/AnonVM/Nginx-Installer/main/setup.sh
 chmod +x setup.sh
 ./setup.sh
 ```
